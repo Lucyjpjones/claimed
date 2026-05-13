@@ -21,36 +21,36 @@ Built from my own frustration with restaurant booking platforms, this app helps 
 </p>
 
 <p align="center">
-  <img src="static/assets/images/readme/home-selected-page.png" alt="Home Page" width="30%">
+  <img src="static/assets/images/readme/home-selected-page.png" alt="Home Page">
 </p>
 
 **Hit List**
 
 <p align="center">
-  <img src="static/assets/images/readme/hitlist-page.png" alt="HistList Page" width="30%">
+  <img src="static/assets/images/readme/hitlist-page.png" alt="HistList Page">
 </p>
 
 **Profile - About**
 
 <p align="center">
-  <img src="static/assets/images/readme/profile-about-page.png" alt="Profile About Page" width="30%">
+  <img src="static/assets/images/readme/profile-about-page.png" alt="Profile About Page">
 </p>
 
 **Profile - Alerts**
 
 <p align="center">
-  <img src="static/assets/images/readme/profile-alerts-page.png" alt="Profile  Alerts Page" width="30%">
+  <img src="static/assets/images/readme/profile-alerts-page.png" alt="Profile  Alerts Page">
 </p>
 
 **Sign In**
 
 <p align="center">
-  <img src="static/assets/images/readme/signin-modal.png" alt="Sign In Modal" width="30%">
+  <img src="static/assets/images/readme/signin-modal.png" alt="Sign In Modal">
 </p>
 
 **Alerts**
 
 <p align="center">
-  <img src="static/assets/images/readme/alert-modal.png" alt="Alerts Modal" width="30%">
+  <img src="static/assets/images/readme/alert-modal.png" alt="Alerts Modal">
 </p>
 
