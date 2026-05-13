@@ -41,7 +41,7 @@ function Header({ isLoggedIn = false }) {
         </Link>
 
         {/* SIGN IN / PROFILE */}
-        {!isLoggedIn ? ( /* REMOVE ! AFTER TESTING */
+        {isLoggedIn ? ( /* REMOVE ! AFTER TESTING */
           <Link to="/profile" className="signInBtn">
             Profile
           </Link>
