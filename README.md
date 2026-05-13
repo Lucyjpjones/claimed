@@ -33,24 +33,24 @@ Built from my own frustration with restaurant booking platforms, this app helps 
 **Profile - About**
 
 <p align="center">
-  <img src="static/assets/images/readme/profile-about-page.png" alt="Profile About Page" width="80%" >
+  <img src="static/assets/images/readme/profile-about-page.png" alt="Profile About Page" width="40%" >
 </p>
 
 **Profile - Alerts**
 
 <p align="center">
-  <img src="static/assets/images/readme/profile-alerts-page.png" alt="Profile  Alerts Page" width="80%">
+  <img src="static/assets/images/readme/profile-alerts-page.png" alt="Profile  Alerts Page" width="40%">
 </p>
 
 **Sign In**
 
 <p align="center">
-  <img src="static/assets/images/readme/signin-modal.png" alt="Sign In Modal" width="80%">
+  <img src="static/assets/images/readme/signin-modal.png" alt="Sign In Modal" width="40%">
 </p>
 
 **Alerts**
 
 <p align="center">
-  <img src="static/assets/images/readme/alert-modal.png" alt="Alerts Modal" width="80%">
+  <img src="static/assets/images/readme/alert-modal.png" alt="Alerts Modal" width="40%">
 </p>
 
