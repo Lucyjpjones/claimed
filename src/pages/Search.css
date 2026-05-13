@@ -1,0 +1,59 @@
+  .resultsGrid {
+    margin: 20px 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .card {
+    background: none;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    padding: 12px;
+  }
+  
+  .cardTitle {
+    font-weight: 500;
+    margin-bottom: 6px;
+    padding-right: 15px;
+  }
+  
+  .cardSubtitle {
+    font-size: 12px;
+    color: #555;
+  }
+
+  .cardRating {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 10px;
+  }
+  
+  .starIcon {
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom: 1px; /* tiny nudge for perfect visual alignment */
+  }
+
+  .cardHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+  
+  .heartButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    
+    color: #fc5051;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

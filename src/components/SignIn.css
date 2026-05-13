@@ -1,0 +1,64 @@
+/* Container for whole filter */
+.signInContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    padding: 10px 0;
+  }
+  
+  /* Each filter block (date / time / people) */
+  .inputGroup {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  
+  /* Labels */
+  .inputLabel {
+    font-size: 12px;
+    font-weight: 500;
+    color: #555;
+  }
+
+  .inputWrapper {
+    position: relative;
+    width: 100%;
+  }
+  
+  /* Inputs (date + time) */
+  .signInInput {
+    width: 240px;
+    padding: 8px 40px 8px 10px;
+    border: 1px solid #dadce0;
+    border-radius: 3px;
+    font-size: 14px;
+    outline: none;
+  }
+  
+  .signInInput:focus {
+    border-color: #fc5051;
+  }
+
+  .inputIcon {
+    position: absolute;
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fc5051;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(4px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }

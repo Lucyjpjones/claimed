@@ -1,0 +1,140 @@
+/* Profile.css */
+
+.profilePage {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* TOP TITLE CARD */
+.titleCard {
+  width: 500px;
+  height: 100px;
+  background: #fc5051;
+  border-radius: 3px;
+  padding: 0 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  color: white;
+}
+
+.titleHi {
+  margin: 0;
+  font-size: 14px;
+}
+
+.titleName {
+  margin: 0;
+  font-size: 22px;
+}
+
+.iconWrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circleIcon {
+  font-size: 80px;
+  color: white;
+  position: absolute;
+  z-index: 1;
+  margin-bottom: -30px;
+}
+
+.userIcon {
+  font-size: 60px;
+  color: #fc5051;
+  z-index: 2;
+  margin-bottom: -30px;
+}
+
+/* MAIN PROFILE CARD */
+.profileCard {
+  width: 500px;
+  height: auto;
+  border: 1px dotted #fc5051;
+  border-radius: 3px;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/* TABS */
+.profileBtnGroup {
+  display: flex;
+  width: 100%;
+}
+
+.profileTab {
+  flex: 1;
+  font-size: 16px;
+  padding: 10px 0px;
+  cursor: pointer;
+  background: white;
+  border: 0;
+  outline: 0;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.profileTabActive {
+  opacity: 1;
+  width: 5px;
+}
+
+/* TAB CONTENT */
+.profileContent {
+  padding: 20px 20px 0 20px;
+}
+
+/* INPUT */
+.profileInput {
+  width: 100%;
+  padding: 8px 40px 8px 10px;
+  border: 1px solid #dadce0;
+  border-radius: 3px;
+  font-size: 14px;
+  outline: none;
+  margin-top: 8px;
+}
+
+.profileInput:focus {
+  border-color: #fc5051;
+}
+
+/* SAVE BUTTON */
+.saveBtn {
+  width: 100%;
+  padding: 8px;
+  border-radius: 3px;
+  font-size: 14px;
+  outline: none;
+  margin-top: 14px;
+  background: white;
+  border: 1px solid #fc5051;
+  cursor: pointer;
+}
+
+.saveBtn:hover {
+  background: #fc5051;
+  color: white;
+}
+
+/* SETTINGS ICON */
+.settingsIcon {
+  color: #fc5051;
+  font-size: 20px;
+}

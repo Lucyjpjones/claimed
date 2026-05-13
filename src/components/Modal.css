@@ -1,0 +1,71 @@
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  z-index: 999;
+}
+
+.modalBox {
+  background: white;
+  border-radius: 3px;
+  width: 500px;
+  max-width: 90%;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.modalHeader {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}
+
+.modalCloseBtn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.modalContent {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.modalFooter {
+  display: flex;
+  justify-content: center;
+}
+
+.modalSubmitBtn {
+  padding: 0 18px;
+  margin: 20px 8px;
+  border-radius: 3px;
+  background: #fc5051;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+  cursor: pointer;
+  line-height: 2rem;
+}
+
+.modalIconWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
