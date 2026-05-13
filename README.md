@@ -1,4 +1,4 @@
-<img src="static/assets/images/readme/lj-online-resume-home.png" alt="Resume home view" width="49%"> <img src="static/assets/images/readme/ClaimedLogo.png" alt="Resume menu view" width="49%">
+<img src="static/assets/images/readme/ClaimedLogo.png" alt="Claimed Logo" width="30%">
 
 ---
 
