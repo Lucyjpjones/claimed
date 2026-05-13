@@ -1,4 +1,6 @@
-<img src="static/assets/images/readme/ClaimedLogo.png" alt="Claimed Logo" width="30%">
+<p align="center">
+  <img src="static/assets/images/readme/ClaimedLogo.png" alt="Claimed Logo" width="30%">
+</p>
 
 ---
 
